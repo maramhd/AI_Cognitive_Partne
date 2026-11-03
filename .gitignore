@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+
+# Virtual and virtual environment
+.env
+.venv
+venv
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+*.exe
+*.obj
+*.exe
+*.dll
+*.cache
+*.log
+
+# Project specific
+temp/
+cache/
+logs/
+backup_
+backup_project.bat
+run_assignment_test.txt
